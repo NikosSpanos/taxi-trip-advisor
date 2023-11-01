@@ -1,0 +1,6 @@
+/config/config.ini
+/data
+/logs/
+/src/__pycache__
+/mlruns
+/model_artifacts
